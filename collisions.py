@@ -1,3 +1,5 @@
+#The most inefficient way of solving PI, inspiration taken from the 3Blue1Brown's Youtube channel's video covering this interesting problem: https://www.youtube.com/watch?v=HEfHFsfGXjs 
+#Not yet complete, recursion does not take new input returned from function into account. 
 import math
 
 
